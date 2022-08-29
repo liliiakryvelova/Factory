@@ -1,6 +1,6 @@
-# _{An application to keep track of the machine repairs}_
+# An application to keep track of the machine repairs
 
-#### By _**{Liliia Kryvelova}**_
+#### By _Liliia Kryvelova_
 
 https://github.com/liliiakryvelova/Factory.git
 
